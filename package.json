@@ -1,0 +1,30 @@
+{
+  "name": "mysql_demo",
+  "version": "1.0.0",
+  "description": "demonstration of MySQL to imitate store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanansley/bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "MySQL",
+    "node",
+    "table",
+    "SQL"
+  ],
+  "author": "Jonathan Ansley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanansley/bamazon/issues"
+  },
+  "homepage": "https://github.com/jonathanansley/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.1"
+  }
+}
